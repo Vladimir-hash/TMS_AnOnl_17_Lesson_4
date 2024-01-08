@@ -6,7 +6,7 @@ import java.util.Scanner;
 // Пусть число для поиска задается с консоли (класс Scanner).
 
 
-public class Main {
+public class Task0 {
     public static void main(String[] args) {
             Scanner scanner = new Scanner(System.in);
             int[] array = {1, 2, 3, 4, 5, 6, 7, 8};
